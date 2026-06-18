@@ -65,18 +65,11 @@ I write code with a deep focus on scalability, testability, and structural clean
 
 ## 🚀 Currently Working On
 
-* **Next-Gen Portfolio Platform:** Building a modular, performant portfolio system using React, Next.js, and Tailwind CSS to showcase clean frontend architecture.
-* **Cloud Architecture Scaling:** Enhancing production-grade distributed applications utilizing Azure Service Bus, Redis caching strategies, and event-driven patterns.
-* **AI-Augmented Development Workflows:** Integrating AI agents, custom LLM solutions, and automated node pipelines (n8n/Make) to optimize code lifecycle management and internal operations.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BartlomiejGromada&show_icons=true&theme=visual_studio_code&hide_border=true&count_private=true" alt="Bartłomiej's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartlomiejGromada&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</p>
+* **Building a modern developer portfolio with Next.js, TypeScript, and Tailwind CSS.**
+* **Designing scalable .NET solutions using Modular Monolith architecture.**
+* **Developing cloud-based applications on Microsoft Azure.**
+* **Leveraging AI-assisted development to improve productivity and software quality.**
+* **Exploring workflow automation using AI Agents, n8n, and Make.com.**
 
 ---
 
